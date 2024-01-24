@@ -4,6 +4,7 @@ The Segmentation is done by applying K-means clustering algorithm to separate mi
 In the Data forder, we have fluorescent images of mitochondria stained with 100 nM NAO as sample images.
 To run this macro, you will need additional plugins listed below.
 
+<img src="https://github.com/shiown026/mitoAnnotation/assets/124115427/98f73f21-965d-4724-8374-db2d0ea5895e" width="90%"></img> 
 
 Requirements:
 -  Fiji:
